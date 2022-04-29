@@ -1,0 +1,65 @@
+.content {
+  padding: 16px;
+}
+
+.mat-card {
+  margin: 20px;
+  box-shadow: none;
+}
+
+.hr {
+  margin-left: 50px;
+}
+
+.header {
+  margin: 50px 0px 0px 50px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 32px;
+
+  color: rgba(0, 0, 0, 0.87);
+}
+
+.sidenav {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+.sidenav-content {
+  width: 393px
+}
+
+.filterForm {
+  margin: 30px 0 0 30px;
+}
+
+.mat-drawer-container-content {
+  width: 100%
+}
+
+.radio-group {
+  display: flex;
+  flex-direction: column;
+  margin: 10px 10px;
+  align-items: flex-start;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.radio-button {
+  margin-top: 10px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+}
